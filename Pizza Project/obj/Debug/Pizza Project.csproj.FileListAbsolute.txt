@@ -1,0 +1,12 @@
+C:\Users\hp\Desktop\Pizza Project\bin\Debug\Pizza Project.exe.config
+C:\Users\hp\Desktop\Pizza Project\bin\Debug\Pizza Project.exe
+C:\Users\hp\Desktop\Pizza Project\bin\Debug\Pizza Project.pdb
+C:\Users\hp\Desktop\Pizza Project\obj\Debug\Pizza Project.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Pizza Project\obj\Debug\Pizza_Project.Properties.Resources.resources
+C:\Users\hp\Desktop\Pizza Project\obj\Debug\Pizza Project.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\Pizza Project\obj\Debug\Pizza Project.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Pizza Project\obj\Debug\Pizza Project.exe
+C:\Users\hp\Desktop\Pizza Project\obj\Debug\Pizza Project.pdb
+C:\Users\hp\Desktop\Pizza Project\obj\Debug\Pizza_Project.FormWelcome.resources
+C:\Users\hp\Desktop\Pizza Project\obj\Debug\Pizza_Project.Menu.resources
+C:\Users\hp\Desktop\Pizza Project\obj\Debug\Pizza_Project.DeliveryForm.resources
