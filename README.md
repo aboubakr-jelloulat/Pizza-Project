@@ -9,7 +9,7 @@
 
 A simple yet functional pizza ordering system built with Windows Forms in C#. This application provides an intuitive user interface for customers to customize and order pizzas with various options for size, toppings, and crust type, along with delivery capabilities.
 
-## ✨ Features
+## ✅ Features
 
 ### 🔹 User-Friendly Interface
 - Clean and intuitive design
